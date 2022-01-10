@@ -2,4 +2,4 @@
  
 ## Demo
 
-node tests/index.js
+```node tests/index.js```
