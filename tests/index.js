@@ -3,7 +3,7 @@ const { TimeRange, TimeRelation } = require('../src');
 var timeRangeA = new TimeRange('2020-12-12 14:00:00', '2020-12-12 16:00:00');
 var timeRangeB = new TimeRange('2020-12-12 09:00:00', '2020-12-12 11:00:00');
 var timeRelation = new TimeRelation(timeRangeA, timeRangeB);
-console.log('After :', timeRelation.getRelation());
+console.log('After :', timeRelation.getRelation(), ', Is Overlapped : ', timeRelation.isOverlapped());
 
 timeRangeA = new TimeRange('2020-12-12 14:00:00', '2020-12-12 16:00:00');
 timeRangeB = new TimeRange('2020-12-12 09:00:00', '2020-12-12 14:00:00');
