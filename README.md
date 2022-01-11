@@ -1,4 +1,4 @@
-## UNDER DEVELOPMENT
+## UNDER DEVELOPMENT :construction_worker:
 
 ---
 
@@ -29,4 +29,5 @@ console.log('Relation :', timeRelation.getRelation(), ', Is Overlapped : ', time
 
 `node tests/index.js`
 
-![Time Period from Jani Giannoudis](https://www.codeproject.com/KB/datetime/TimePeriod/PeriodRelations.png)
+![Time Period from Jani Giannoudis](https://www.codeproject.com/KB/datetime/TimePeriod/PeriodRelations.png) _image from
+[Jani Giannoudis](https://www.codeproject.com/Articles/168662/Time-Period-Library-for-NET)_
