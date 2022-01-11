@@ -31,3 +31,7 @@ console.log('Relation :', timeRelation.getRelation(), ', Is Overlapped : ', time
 
 ![Time Period from Jani Giannoudis](https://www.codeproject.com/KB/datetime/TimePeriod/PeriodRelations.png) _image from
 [Jani Giannoudis](https://www.codeproject.com/Articles/168662/Time-Period-Library-for-NET)_
+
+## License
+
+MIT
