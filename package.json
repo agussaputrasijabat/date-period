@@ -1,7 +1,7 @@
 {
 	"name": "datetime-period",
 	"version": "1.0.0",
-	"description": "",
+	"description": "The library Time Period for handling periods of time.",
 	"main": "src/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
